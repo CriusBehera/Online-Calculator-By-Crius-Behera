@@ -1,0 +1,32 @@
+body {
+    text-align: center;
+    background-color: chartreuse;
+}
+
+.crius_div {
+    padding: 10px;
+    border-radius: 30px;
+    background: #000;
+    text-align: center;
+    display: inline-block;
+}
+
+h1 {
+    color: chartreuse;
+}
+
+input {
+    font-size: large;
+    border-radius: 50px;
+    border-color: chartreuse;
+}
+
+button {
+    padding: 10px;
+   background-color: chartreuse;
+   border-radius: 50px;
+}
+
+table {
+    margin: auto;
+}
